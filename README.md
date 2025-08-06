@@ -271,8 +271,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Yash Raj**
-- GitHub: [@YashRaj](https://github.com/YashRaj)
-- LinkedIn: [Yash Raj](https://linkedin.com/in/yashraj)
+- LinkedIn: [Yash Raj](https://www.linkedin.com/in/yash-raj-329ba124b/)
 
 ## 🙏 Acknowledgments
 
@@ -283,12 +282,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Lucide** - For beautiful icons
 - **All Contributors** - For making this project better
 
-## ⭐ Show Your Support
+## ⭐ Show Your Support               
 
 If this project helped you, please give it a ⭐ on GitHub!
 
 ---
 
-**Built with ❤️ for students, by students**
+**Built with ❤️ for students**
 
 *Happy studying! 📚✨*
