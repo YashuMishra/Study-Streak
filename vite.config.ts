@@ -5,6 +5,7 @@ import { createServer } from "./server";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
+  base: '/Study-Streak/', // Set base path for GitHub Pages
   server: {
     host: "::",
     port: 8080,
@@ -14,7 +15,7 @@ export default defineConfig(({ mode }) => ({
     },
   },
   build: {
-    outDir: "dist/spa",
+    outDir: "dist", // Use 'dist' for GitHub Pages compatibility
   },
   plugins: [react(), expressPlugin()],
   resolve: {
